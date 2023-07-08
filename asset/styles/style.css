@@ -1,0 +1,12 @@
+:root{
+    --primary: #212121;
+    --secondary: #828282;
+    --light: #F58634;
+}
+body{
+    font-family: "Poppins",sans-serif;
+    font-weight: 200;
+}
+a{
+    text-decoration: none;
+}
