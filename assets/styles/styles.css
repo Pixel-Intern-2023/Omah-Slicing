@@ -1,0 +1,14 @@
+:root {
+    --dark: #1B2021;
+    --secondary: #828282;
+    --primary: #F58634;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.wrapper {
+    background-color: white;
+    max-width: 100vw;
+}
