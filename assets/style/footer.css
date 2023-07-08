@@ -1,0 +1,23 @@
+.footer {
+  display: flex;
+  padding-inline: 135px;
+  padding-top: 48px;
+  padding-bottom: 48px;
+  justify-content: space-between;
+}
+
+.footer .by {
+  color: var(--secondary);
+  letter-spacing: 0.24px;
+  font-weight: 500;
+}
+
+.footer .social-media {
+  display: flex;
+  column-gap: 15px;
+}
+.footer .social-media img {
+  object-fit: contain;
+  width: 25px;
+  height: 25px;
+}

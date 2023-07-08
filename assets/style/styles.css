@@ -1,3 +1,8 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
 :root {
   --secondary: #828282;
   --dark: #1b2021;
@@ -7,6 +12,6 @@ body {
   font-family: 'Poppins', sans-serif; /*sans serif default*/
 }
 .wrapper {
-  background-color: white;
+  background-color: #fcfcfc;
   max-width: 100vw;
 }
