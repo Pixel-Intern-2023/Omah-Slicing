@@ -1,0 +1,22 @@
+.footer{
+    display: flex;
+    padding: 48px  135px;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer .by{
+    color: var(--secondary);
+    font-size: 24px;
+    font-weight: 500;
+    letter-spacing: 0.24px;
+}
+.footer .social-media{
+    display: flex;
+    column-gap: 37px;
+}
+
+.footer .social-media img{
+    width: 34px;
+    height: 34px;
+    object-fit: contain;
+}
